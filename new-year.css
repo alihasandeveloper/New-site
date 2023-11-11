@@ -4,7 +4,7 @@
 }
 
 .home-page {
-    background-image: url(/banner1.png);
+    background: url(/banner1.png);
     background-repeat: no-repeat;
     background-size: cover;
     padding-top: 50px;
